@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm a student of management information systems.<br>🌱 I'm currently learning flutter and web programing language I'm currently learning flutter and web programing language<br><br>
+📚 I'm a student of management information systems.<br>🌱 I'm currently learning flutter and web programing language <br><br>
 
 
 ## 🌐 Socials:
